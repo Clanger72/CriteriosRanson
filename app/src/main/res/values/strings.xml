@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CriteriosRanson</string>
+    <string name="label_header">Novo Paciente</string>
+    <string name="text_label_name">Nome:</string>
+    <string name="text_label_idade">Idade:</string>
+    <string name="label_medida_glicemia">cél./mm3</string>
+    <string name="litiase_biliar_checkBox">Litíase Biliar</string>
+    <string name="label_leococitos">Leocócitos</string>
+    <string name="label_glicemia">Glicemia</string>
+    <string name="medida_glicemia">mmol/L</string>
+    <string name="medida_ast_tgo">AST/TGO</string>
+    <string name="medida_ui_l">UI/L</string>
+    <string name="label_ldh">LDH</string>
+    <string name="button_calculateranson">calculateRanson</string>
+    <string name="text_header_response">Critérios de Ranson</string>
+    <string name="label_idade">Idade:</string>
+    <string name="label_pontuacao">Pontuação:</string>
+    <string name="label_mortalidade">Mortalidade:</string>
+    <string name="label_second_activity">Resultado</string>
+</resources>
